@@ -1,0 +1,24 @@
+{
+  "name": "sse-communication",
+  "version": "0.9.0",
+  "description": "Module for communication changes through ServerSentEvents... most basic implementation possible...",
+  "author": "Matthew Forrester <matt@keyboardwritescode.com>",
+  "dependencies": {
+    "get_tlid_encoder_decoder": "^0.9.3",
+    "jshint": "^2.5.1"
+  },
+  "devDependencies": {
+    "expect.js": "0.2.x",
+    "mocha": "1.8.x"
+  },
+  "engines": {
+    "node": ">0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forbesmyester/sse-communication.git"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}

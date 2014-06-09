@@ -1,0 +1,3 @@
+# SseCommunication
+
+Module for communication changes through ServerSentEvents... most basic implementation possible...
